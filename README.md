@@ -105,7 +105,7 @@ Choose an option: 5
 ## 🗂️ Project Structure
 ```markdown
 .
-├── todo_cli.py # Main CLI program
+├── todo_list_cli_app.py # Main CLI program
 ├── tasks.txt # File storing tasks (auto-created)
 └── README.md # Project documentation
 ```
