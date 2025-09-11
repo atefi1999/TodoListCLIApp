@@ -25,8 +25,8 @@ Manage tasks easily: add, list, mark as done, remove, and save your tasks locall
 
 
 ## 📝 Classes & OOP Map
-```backtick
 
+```backtick
 **Task**
 - `__init__(self, id, title, completed=False)` → Initialize a task
 - `mark_done()` → Mark task as done
@@ -55,14 +55,14 @@ Manage tasks easily: add, list, mark as done, remove, and save your tasks locall
 #### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/todo-cli-app.git
-cd todo-cli-app
+git clone https://github.com/atefi1999/TodoListCLIApp.git
+cd TodoListCLIApp
 ```
 
 #### 2. Run the app:
 
 ```bash
-python todo_cli.py
+python todo_list_cli_app.py
 ```
 ---
 ## 🎮 Sample Run
