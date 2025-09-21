@@ -96,7 +96,7 @@ Choose an option: 5
 ---
 ## 🎥 Demo
 
-<img  alt="screenshot" src="https://github.com/user-attachments/assets/36727839-c342-4583-8710-20f9e697dca3"  width="50%" />
+<img  alt="screenshot" src="https://github.com/user-attachments/assets/36727839-c342-4583-8710-20f9e697dca3"  width="70%" />
 
 
 ---
