@@ -94,6 +94,10 @@ Choose an option: 5
 💾 Tasks saved. Goodbye!
 ```
 ---
+## 🎥 Demo
+
+<img  alt="screenshot" src="https://github.com/user-attachments/assets/9620c89d-22ef-4f93-b189-59f1edc4a752"  width="30%" />
+---
 ## 📂 Notes
 
 - Tasks are automatically saved to tasks.txt.
